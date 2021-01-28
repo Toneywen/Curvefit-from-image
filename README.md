@@ -6,7 +6,7 @@
 ### 3. required packages: numpy, matplotlib, pillow, random
 
 ## The original image:
-![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/5.jpg)
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/5.jpg" width="200" height="200" alt="微信小程序"/><br/>
 
 ## The gray image:
 ![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test1.jpg)
