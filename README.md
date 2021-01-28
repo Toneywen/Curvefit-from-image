@@ -20,10 +20,10 @@
 ## Results:
 running on terminal:
 
-<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/terminal_result.jpg" width="300" height="300" alt="终端运行结果"/><br/>
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/terminal_result.jpg"  alt="终端运行结果"/><br/>
 
 results of fitted curve and the original image:
 
-<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/result.png" width="300" height="300" alt="绘制结果"/><br/>
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/result.png" alt="绘制结果"/><br/>
 
 
