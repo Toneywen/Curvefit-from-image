@@ -6,22 +6,24 @@
 ### 3. required packages: numpy, matplotlib, pillow, random
 
 ## The original image:
-<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/5.jpg" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/5.jpg" width="300" height="300" alt="原始图片"/><br/>
 
 ## The gray image:
-![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test1.jpg)
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test1.jpg" width="300" height="300" alt="灰度图"/><br/>
 
 ## The binarized image:
-![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test2.jpg)
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test2.jpg" width="300" height="300" alt="二值化图"/><br/>
 
 ## The image of thin curve:
-![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test3.jpg)
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/test3.jpg" width="300" height="300" alt="瘦图"/><br/>
 
 ## Results:
 running on terminal:
-![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/terminal_result.jpg)
+
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/terminal_result.jpg" width="300" height="300" alt="终端运行结果"/><br/>
 
 results of fitted curve and the original image:
-![image](https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/result.png)
+
+<img src="https://github.com/Toneywen/Curvefit-from-image/blob/main/imgs/result.png" width="300" height="300" alt="绘制结果"/><br/>
 
 
